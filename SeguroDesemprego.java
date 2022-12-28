@@ -14,8 +14,8 @@ public static void main(String[] args) {
 	
 	final double fator=0.8;
 	double R =salario*fator;
-	R= ">6000".equals(salario) 
 	
-	 System.out.println("Seu seguro desemprego sera = %.2f",R);
+	
+	 System.out.printf("Seu seguro desemprego serade : %.2f",R);
 }
 }
