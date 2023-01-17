@@ -1,2 +1,2 @@
-# funndamentos
+# fundamentos
  Estudos em JAVA
